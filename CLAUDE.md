@@ -3,7 +3,9 @@
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 @AGENTS.md
+@docs/auth.md
 @docs/data-fetching.md
+@docs/data-mutations.md
 @docs/ui.md
 
 ## IMPORTANT: Docs-First Rule
